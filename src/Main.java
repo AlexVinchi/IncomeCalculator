@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     private static int minIncome = 200000;
     private static int maxIncome = 900000;
-
+    //teat
     private static int officeRentCharge = 140000;
     private static int telephonyCharge = 12000;
     private static int internetAccessCharge = 7200;
